@@ -62,5 +62,5 @@ You may use this project freely at your own risk. See [LICENSE](https://chooseal
 <p align="center">
     <a href="www.linkedin.com/in/harsh-raj-gupta1629" target="_blank"><img alt="LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"></a> &nbsp&nbsp&nbsp
     <a href="https://www.instagram.com/raj_harsh_1609/" target="_blank"><img alt="Instagram" width="25px" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png"></a> &nbsp&nbsp&nbsp
-     <a href="mailto:mahimachuri.28@gmail.com" target="_blank"><img alt="Gmail" width="40px" height="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a>&nbsp&nbsp&nbsp
+     <a href="mailto:harshgupta1629@gmail.com" target="_blank"><img alt="Gmail" width="40px" height="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a>&nbsp&nbsp&nbsp
    </p>
